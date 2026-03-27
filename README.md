@@ -70,4 +70,4 @@ pip install pandas numpy matplotlib scipy scikit-learn notebook
 - Generated outputs are written to relative repository paths so that the workflow remains portable across computers and archival systems.
 
 ## Citation and reuse
-Please cite the associated manuscript or preprint when reusing this workflow. If the repository is archived in Zenodo, add the Zenodo DOI here after deposition.
+Please cite the associated manuscript and Zenodo repository (https://doi.org/10.5281/zenodo.19252198) when reusing this workflow.

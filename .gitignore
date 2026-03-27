@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Test / cache
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Local outputs
+analysis_outputs/
+figures/
+tables/
+
+# Large raw data files
+*.raw
+*.mzML
+*.mzXML
+*.wiff
+*.zip
+*.tar.gz
+
+# Secrets / env
+.env
